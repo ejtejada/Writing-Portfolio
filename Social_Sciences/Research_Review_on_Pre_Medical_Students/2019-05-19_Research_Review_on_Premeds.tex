@@ -10,10 +10,11 @@
 \usepackage[greek,english]{babel} %Needed for greek letters
 \usepackage[pdfborder={0 0 0.5 [3 3]}, pdftitle={On the State of Premedical Education and the Self-Selection Criteria of Premedical Students}]{hyperref} %Needed for website
 \usepackage{csquotes}
+%\renewcommand{\mktextquote}[6]{#1#2#4#6#3#5} %Will this fix quotes having period on the outside?
 \addbibresource{ActualBib.bib}
 %To append abstracts to *any* citation style, we will use stack exchange users tmgriffiths and moewe: 
 %https://tex.stackexchange.com/a/278419
-\DeclareFieldFormat{abstract}{\par\small\textbf{Abstract}: #1}
+\DeclareFieldFormat{abstract}{\par\small\textbf{Annotation}: #1}
 \renewbibmacro*{finentry}{%
 	\iffieldundef{abstract}
 	{%
