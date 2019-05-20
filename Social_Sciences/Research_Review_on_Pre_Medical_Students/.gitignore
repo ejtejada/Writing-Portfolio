@@ -20,7 +20,7 @@
 # *.ps
 # *.eps
 *.pdf
-
+!2019-05-19_Research_Review_on_Premeds.pdf
 ## Generated if empty string is given at "Please type another file name for output:"
 .pdf
 
