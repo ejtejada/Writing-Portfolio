@@ -5,10 +5,13 @@
 \title{On the State of Premedical Education and the Self-Selection Criteria of Premedical Students \\\medskip A Literature Review}
 \author{Edgar Tejada ([redacted])\\University of California, Merced}
 \usepackage[utf8]{inputenc}
-\usepackage[backend=biber, bibencoding=utf8, style=mla, citestyle=alphabetic]{biblatex}
+\usepackage[backend=biber, bibencoding=utf8, style=mla, citestyle=mla]{biblatex}
 %\usepackage[english]{babel} %English only, no greek or math.
 \usepackage[greek,english]{babel} %Needed for greek letters
 \usepackage[pdfborder={0 0 0.5 [3 3]}, pdftitle={On the State of Premedical Education and the Self-Selection Criteria of Premedical Students}]{hyperref} %Needed for website
+\hypersetup{
+	colorlinks=true,
+}
 \usepackage{csquotes}
 %\renewcommand{\mktextquote}[6]{#1#2#4#6#3#5} %Will this fix quotes having period on the outside?
 \addbibresource{ActualBib.bib}
@@ -61,13 +64,18 @@
 %12pt is one-sixth of an inch. Subtract this from 0.5in to get headsep value
 \setlength\headsep{0.333in}
 
+%Fix Works Cited Heading
+\defbibheading{bibliography}{%
+	\section*{\centerline{\normalfont {\normalsize Works Cited}}}} 
+
 %
-%Works cited environment
+%(Old) Works cited environment
 %(to start, use \begin{workscited...}, each entry preceded by \bibent)
 % - from Ryan Alcock's MLA style file
 %
 \newcommand{\bibent}{\noindent \hangindent 40pt}
-\newenvironment{workscited}{\newpage \begin{center} Works Cited \end{center}}{\newpage }
+\newenvironment{workscited}{\newpage \begin{center} Works Cited 
+\end{center}}{\newpage }
 
 %
 %Begin document
@@ -90,12 +98,13 @@ Writing 117: Writing for the Social Sciences\\
 %%%%Changes paragraph indentation to 0.5in
 \setlength{\parindent}{0.5in}
 %%%%Begin body of paper here
-Many aspiring new undergraduate students enter the field of academia with the dream of spring-boarding into the health and medical fields. These ambitious, motivated students want to become the modern world's healers; they want to touch people's lives and fulfill their dreams of becoming doctors. However, many of these students brutally discover that this life-long career choice is both arduous and self-destructive for all but the most dedicated of students. Indeed, the road to doctorhood may be littered with moral pitfalls and the dreams of the super-majority that fail to make it, but the literature shows that colleges and universities should bear the brunt of their failures to their students on the academic, social, and moral battles needed to win entry into medical school.
+Many aspiring new undergraduate students enter the field of academia with the dream of spring-boarding into the health and medical fields. These ambitious, motivated students want to become the modern world's healers; they want to touch people's lives and fulfill their dreams of becoming doctors. However, many of these students brutally discover that this life-long career choice is both arduous and self-destructive for all but the most dedicated of students. Indeed, the road to doctorhood may be littered with moral pitfalls and the dreams of the super-majority that fail to make it (\cite{Olsen-2016} 74). The literature shows that colleges and universities should bear the brunt of their failures to their students on the academic, social, and moral battles needed to win entry into medical school.
 
 \newpage
 \medskip %Median skip?
 \nocite{*} %This should go before we print the bibliography
 \printbibliography%This only works with biber as the biblatex backend. :/
+%\end{workscited}
 \end{flushleft}
 \end{document}
 \}
