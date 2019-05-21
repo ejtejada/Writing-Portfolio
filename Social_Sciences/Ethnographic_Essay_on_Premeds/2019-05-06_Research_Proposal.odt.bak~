@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
-<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="29" xmlns:dc="http://purl.org/dc/elements/1.1/" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.0.1" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:en-US; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="20" xmlns:dc="http://purl.org/dc/elements/1.1/" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.0.1" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:en-US; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
 <!-- ======================================================================== -->
 <!-- This file is an AbiWord document.                                        -->
 <!-- AbiWord is a free, Open Source word processor.                           -->
@@ -9,7 +9,7 @@
 <!-- ======================================================================== -->
 
 <metadata>
-<m key="abiword.date_last_changed">Tue May 21 01:10:08 2019
+<m key="abiword.date_last_changed">Tue May 21 01:36:52 2019
 </m>
 <m key="abiword.generator">AbiWord</m>
 <m key="dc.date">Tue Jan 29 22:24:38 2019
@@ -23,8 +23,8 @@
 <t  s="manifest.rdf"  p="http://docs.oasis-open.org/ns/office/1.2/meta/pkg#hasPart"  objecttype="1"  xsdtype=""  >content.xml</t>
 <t  s="manifest.rdf"  p="http://www.w3.org/1999/02/22-rdf-syntax-ns#type"  objecttype="1"  xsdtype=""  >http://docs.oasis-open.org/ns/office/1.2/meta/pkg#Document</t>
 </rdf>
-<history version="12" edit-time="1200" last-saved="1558426208" uid="4e51e9e0-7b9d-11e9-89ff-8a4bb8f28c89">
-<version id="12" started="1558425161" uid="d910d15c-7b9f-11e9-89ff-8a4bb8f28c89" auto="0" top-xid="0"/>
+<history version="7" edit-time="299" last-saved="1558427812" uid="e5323842-7ba2-11e9-841f-855d87ff92ec">
+<version id="7" started="1558427667" uid="9580b3e0-7ba3-11e9-841f-855d87ff92ec" auto="0" top-xid="0"/>
 </history>
 <styles>
 <s type="P" name="Normal" props="default-tab-interval:0.5in"/>
@@ -49,18 +49,22 @@
 <pagesize pagetype="Letter" orientation="portrait" width="8.500000" height="11.000000" units="in" page-scale="1.000000"/>
 <section header="0" xid="2" props="page-margin-right:1in; page-width:8.500000in; columns:1; page-margin-header:0.000000cm; page-margin-left:1in; column-gap:0in; page-margin-bottom:1in; page-orientation:portrait; page-margin-top:3.708908cm; page-height:11.000000in">
 <p xid="3"><pbr/></p>
-<p style="Normal" xid="4" props="line-height:2.000000; font-size:12pt">Edgar Tejada</p>
-<p style="Normal" xid="5" props="margin-top:0in; line-height:2.000000; margin-bottom:0in; font-size:12pt">Dr. Wilson</p>
-<p style="Normal" xid="6" props="margin-top:0in; line-height:2.000000; margin-bottom:0in; font-size:12pt"><c props="lang:en-US">Writing</c> 117: Writing for the Social Sciences</p>
-<p style="Normal" xid="7" props="margin-top:0in; line-height:2.000000; margin-bottom:0in; font-size:12pt">20 May 2019</p>
-<p style="Normal" xid="8" props="text-align:center; margin-top:0in; line-height:2.000000; margin-bottom:0in; font-size:12pt">The Monster that Eats Medical School Applicants</p>
-<p style="Normal" xid="9" props="margin-top:0in; line-height:2.000000; margin-bottom:0in; font-size:12pt">Introduction:</p>
-<p style="Normal" xid="29" props="margin-top:0in; line-height:2.000000; margin-bottom:0in; font-size:12pt"><c></c>	A few months ago I was tasked with selecting an on campus ethnographic group that was both accessible, but challenging to study. I keyed in on pre-health organizations I saw a club fair event ; I chose them as alien-enough subjects such that I wanted to observe them in wild. After quite a few ignored emails and cold trails, I got a positive response from one of the super-packs of premedical students on campus. Once I was <c props="font-family:TeX Gyre Termes; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">(reluctantly) </c>welcomed by the local American Medical Student Association (AMSA) chapter, <c props="font-family:TeX Gyre Termes; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">I recorded and observed </c><c>them for a month and a half, </c></p>
+<p props="" xid="4"><c></c></p>
+<p style="Normal" xid="5" props="line-height:2.000000; font-size:12pt">Edgar Tejada</p>
+<p style="Normal" xid="6" props="margin-top:0in; line-height:2.000000; margin-bottom:0in; font-size:12pt">Dr. Wilson</p>
+<p style="Normal" xid="7" props="margin-top:0in; line-height:2.000000; margin-bottom:0in; font-size:12pt"><c props="lang:en-US">Writing</c> 117: Writing for the Social Sciences</p>
+<p style="Normal" xid="8" props="margin-top:0in; line-height:2.000000; margin-bottom:0in; font-size:12pt">20 May 2019</p>
+<p style="Normal" xid="9" props="text-align:center; margin-top:0in; line-height:2.000000; margin-bottom:0in; font-size:12pt">The Monster that Eats Medical School Applicants</p>
+<p style="Normal" xid="10" props="margin-top:0in; line-height:2.000000; margin-bottom:0in; font-size:12pt">Methods to the Madness:</p>
+<p style="Normal" xid="11" props="margin-top:0in; line-height:2.000000; margin-bottom:0in; font-size:12pt">	A few months ago I was tasked with selecting an on campus ethnographic group that was both accessible, but challenging to study. I keyed in on pre-health organizations I saw a club fair event ; I chose them as alien-enough subjects such that I wanted to observe them in wild. After quite a few ignored emails and cold trails, I got a positive response from one of the super-packs of premedical students on campus. Once I was <c props="lang:en-US; font-size:12pt; font-weight:normal; font-family:TeX Gyre Termes; color:#000000">(reluctantly) </c>welcomed by the local American Medical Student Association (AMSA) chapter, <c props="lang:en-US; font-size:12pt; font-weight:normal; font-family:TeX Gyre Termes; color:#000000">I began note taking and observing </c>them at their weekly club meetings for about a month. I entered with just a fanciful curiosity of what the tract to doctorhood was like, but I instead left my field sites deeply concerned for the academic and social well being of these innocent students. I quickly learned that a hulking, stalking beast was ready to pounce on these student, the yearly medical school application cycle.</p>
+<p style="Normal" xid="12" props="margin-top:0in; line-height:2.000000; margin-bottom:0in; font-size:12pt">Outsider:</p>
+<p style="Normal" xid="13" props="margin-top:0in; line-height:2.000000; margin-bottom:0in; font-size:12pt">	My first introduction to AMSA was not very warm, as the vice president had emailed me the wrong room number in the Social Science Building. It was, thankfully, an empty and warm lecture hall where I foolishly waited and for an update from the VP. After 15 minutes where I was considering that perhaps I wasn’t really welcome, I received an update that the room had to had been changed on Facebook and their website, but after I had ask</p>
 </section>
-<section id="0" type="header" xid="23">
-<p style="Normal" xid="24" props="font-family:CG Times; margin-left:5.5in; font-size:12pt; text-indent:0in; margin-bottom:0in; text-align:right; margin-right:0in; margin-top:0in"><c></c></p>
-<p style="Normal" xid="25" props="font-family:CG Times; margin-left:5.5in; font-size:12pt; text-indent:0in; margin-bottom:0in; margin-right:0in; margin-top:0in"><c></c></p>
-<p style="Normal" xid="26" props="font-family:CG Times; margin-left:5.5in; font-size:12pt; text-indent:0in; margin-bottom:0in; margin-right:0in; margin-top:0in"><c></c></p>
-<p style="Normal" xid="27" props="margin-top:0in; margin-bottom:0in; text-indent:0in; margin-left:5.5in; margin-right:0in"><c props="font-family:Times New Roman; font-size:12pt">     Tejada </c><field type="page_number" xid="28"></field></p>
+<section id="0" type="header" xid="14">
+<p xid="15"><pbr/></p>
+<p style="Normal" xid="16" props="font-family:CG Times; margin-left:5.5in; font-size:12pt; text-indent:0in; margin-bottom:0in; text-align:right; margin-right:0in; margin-top:0in"><c></c></p>
+<p style="Normal" xid="17" props="font-family:CG Times; margin-left:5.5in; font-size:12pt; text-indent:0in; margin-bottom:0in; margin-right:0in; margin-top:0in"><c></c></p>
+<p style="Normal" xid="18" props="font-family:CG Times; margin-left:5.5in; font-size:12pt; text-indent:0in; margin-bottom:0in; margin-right:0in; margin-top:0in"><c></c></p>
+<p style="Normal" xid="19" props="margin-top:0in; margin-bottom:0in; text-indent:0in; margin-left:5.5in; margin-right:0in"><c props="font-family:Times New Roman; font-size:12pt">    Tejada </c><field type="page_number" xid="20"></field></p>
 </section>
 </abiword>
