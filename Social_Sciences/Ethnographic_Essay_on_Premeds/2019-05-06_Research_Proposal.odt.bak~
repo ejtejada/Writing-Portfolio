@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="29" xmlns:dc="http://purl.org/dc/elements/1.1/" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.0.1" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:en-US; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<!-- ======================================================================== -->
+<!-- This file is an AbiWord document.                                        -->
+<!-- AbiWord is a free, Open Source word processor.                           -->
+<!-- More information about AbiWord is available at http://www.abisource.com/ -->
+<!-- You should not edit this file by hand.                                   -->
+<!-- ======================================================================== -->
+
+<metadata>
+<m key="abiword.date_last_changed">Tue May 21 01:10:08 2019
+</m>
+<m key="abiword.generator">AbiWord</m>
+<m key="dc.date">Tue Jan 29 22:24:38 2019
+</m>
+<m key="dc.format">application/x-abiword</m>
+</metadata>
+<rdf>
+<t  s="styles.xml"  p="http://www.w3.org/1999/02/22-rdf-syntax-ns#type"  objecttype="1"  xsdtype=""  >http://docs.oasis-open.org/ns/office/1.2/meta/odf#StylesFile</t>
+<t  s="content.xml"  p="http://www.w3.org/1999/02/22-rdf-syntax-ns#type"  objecttype="1"  xsdtype=""  >http://docs.oasis-open.org/ns/office/1.2/meta/odf#ContentFile</t>
+<t  s="manifest.rdf"  p="http://docs.oasis-open.org/ns/office/1.2/meta/pkg#hasPart"  objecttype="1"  xsdtype=""  >styles.xml</t>
+<t  s="manifest.rdf"  p="http://docs.oasis-open.org/ns/office/1.2/meta/pkg#hasPart"  objecttype="1"  xsdtype=""  >content.xml</t>
+<t  s="manifest.rdf"  p="http://www.w3.org/1999/02/22-rdf-syntax-ns#type"  objecttype="1"  xsdtype=""  >http://docs.oasis-open.org/ns/office/1.2/meta/pkg#Document</t>
+</rdf>
+<history version="12" edit-time="1200" last-saved="1558426208" uid="4e51e9e0-7b9d-11e9-89ff-8a4bb8f28c89">
+<version id="12" started="1558425161" uid="d910d15c-7b9f-11e9-89ff-8a4bb8f28c89" auto="0" top-xid="0"/>
+</history>
+<styles>
+<s type="P" name="Normal" props="default-tab-interval:0.5in"/>
+<s type="P" name="Caption" basedon="Normal" followedby="Caption" props="margin-top:0.0835in; font-size:12pt; margin-bottom:0.0835in; font-style:italic"/>
+<s type="P" name="Contents 1" basedon="Normal" followedby="Normal" props="text-indent:-0.3in; margin-left:0.5in; margin-right:0in"/>
+<s type="P" name="Contents 2" basedon="Normal" followedby="Normal" props="text-indent:-0.3in; margin-left:1in; margin-right:0in"/>
+<s type="P" name="Contents 3" basedon="Normal" followedby="Normal" props="text-indent:-0.3in; margin-left:1.5in; margin-right:0in"/>
+<s type="P" name="Contents 4" basedon="Normal" followedby="Normal" props="text-indent:-0.3in; margin-left:2in; margin-right:0in"/>
+<s type="P" name="Header" basedon="Normal" followedby="Header" props="tabstops:3.738889in/C0,7.480556in/R0"/>
+<s type="P" name="Heading" basedon="Normal" followedby="Text body" props="margin-top:0.1665in; keep-with-next:yes; margin-bottom:0.0835in; font-family:Caladea; font-size:14pt"/>
+<s type="P" name="Heading 1" basedon="normal" followedby="Normal" props="font-size:20pt; margin-top:0.278in; line-height:1.000000; margin-bottom:0.0835in; keep-with-next:yes"/>
+<s type="P" name="Heading 2" basedon="normal" followedby="Normal" props="font-size:16pt; margin-top:0.25in; line-height:1.000000; margin-bottom:0.0835in; keep-with-next:yes; font-weight:normal"/>
+<s type="P" name="Heading 3" basedon="normal" followedby="Normal" props="margin-top:0.222in; font-size:14pt; margin-bottom:0.0555in; line-height:1.000000; color:#434343; font-weight:normal; keep-with-next:yes"/>
+<s type="P" name="Heading 4" basedon="normal" followedby="Normal" props="font-size:12pt; color:#666666; margin-top:0.1945in; line-height:1.000000; margin-bottom:0.0555in; keep-with-next:yes"/>
+<s type="P" name="Heading 5" basedon="normal" followedby="Normal" props="font-size:11pt; color:#666666; margin-top:0.1665in; line-height:1.000000; margin-bottom:0.0555in; keep-with-next:yes"/>
+<s type="P" name="Heading 6" basedon="normal" followedby="Normal" props="margin-top:0.1665in; font-size:11pt; margin-bottom:0.0555in; line-height:1.000000; color:#666666; font-style:italic; keep-with-next:yes"/>
+<s type="P" name="Subtitle" basedon="normal" followedby="Normal" props="margin-top:0in; font-size:15pt; margin-bottom:0.222in; line-height:1.000000; color:#666666; keep-with-next:yes; font-family:Arial"/>
+<s type="P" name="Text body" basedon="Normal" followedby="Text body" props="margin-top:0in; line-height:1.200000; margin-bottom:0.0972in"/>
+<s type="P" name="Title" basedon="normal" followedby="Normal" props="font-size:26pt; margin-top:0in; line-height:1.000000; margin-bottom:0.0417in; keep-with-next:yes"/>
+<s type="P" name="normal" followedby="normal" props="text-align:left; dom-dir:ltr; orphans:2; widows:2"/>
+</styles>
+<pagesize pagetype="Letter" orientation="portrait" width="8.500000" height="11.000000" units="in" page-scale="1.000000"/>
+<section header="0" xid="2" props="page-margin-right:1in; page-width:8.500000in; columns:1; page-margin-header:0.000000cm; page-margin-left:1in; column-gap:0in; page-margin-bottom:1in; page-orientation:portrait; page-margin-top:3.708908cm; page-height:11.000000in">
+<p xid="3"><pbr/></p>
+<p style="Normal" xid="4" props="line-height:2.000000; font-size:12pt">Edgar Tejada</p>
+<p style="Normal" xid="5" props="margin-top:0in; line-height:2.000000; margin-bottom:0in; font-size:12pt">Dr. Wilson</p>
+<p style="Normal" xid="6" props="margin-top:0in; line-height:2.000000; margin-bottom:0in; font-size:12pt"><c props="lang:en-US">Writing</c> 117: Writing for the Social Sciences</p>
+<p style="Normal" xid="7" props="margin-top:0in; line-height:2.000000; margin-bottom:0in; font-size:12pt">20 May 2019</p>
+<p style="Normal" xid="8" props="text-align:center; margin-top:0in; line-height:2.000000; margin-bottom:0in; font-size:12pt">The Monster that Eats Medical School Applicants</p>
+<p style="Normal" xid="9" props="margin-top:0in; line-height:2.000000; margin-bottom:0in; font-size:12pt">Introduction:</p>
+<p style="Normal" xid="29" props="margin-top:0in; line-height:2.000000; margin-bottom:0in; font-size:12pt"><c></c>	A few months ago I was tasked with selecting an on campus ethnographic group that was both accessible, but challenging to study. I keyed in on pre-health organizations I saw a club fair event ; I chose them as alien-enough subjects such that I wanted to observe them in wild. After quite a few ignored emails and cold trails, I got a positive response from one of the super-packs of premedical students on campus. Once I was <c props="font-family:TeX Gyre Termes; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">(reluctantly) </c>welcomed by the local American Medical Student Association (AMSA) chapter, <c props="font-family:TeX Gyre Termes; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">I recorded and observed </c><c>them for a month and a half, </c></p>
+</section>
+<section id="0" type="header" xid="23">
+<p style="Normal" xid="24" props="font-family:CG Times; margin-left:5.5in; font-size:12pt; text-indent:0in; margin-bottom:0in; text-align:right; margin-right:0in; margin-top:0in"><c></c></p>
+<p style="Normal" xid="25" props="font-family:CG Times; margin-left:5.5in; font-size:12pt; text-indent:0in; margin-bottom:0in; margin-right:0in; margin-top:0in"><c></c></p>
+<p style="Normal" xid="26" props="font-family:CG Times; margin-left:5.5in; font-size:12pt; text-indent:0in; margin-bottom:0in; margin-right:0in; margin-top:0in"><c></c></p>
+<p style="Normal" xid="27" props="margin-top:0in; margin-bottom:0in; text-indent:0in; margin-left:5.5in; margin-right:0in"><c props="font-family:Times New Roman; font-size:12pt">     Tejada </c><field type="page_number" xid="28"></field></p>
+</section>
+</abiword>
