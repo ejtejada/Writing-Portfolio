@@ -241,3 +241,6 @@ TSWLatexianTemp*
 
 # generated if using elsarticle.cls
 *.spl
+#Ignore abiword .bak and .bak~ files
+*.bak
+*.bak~
